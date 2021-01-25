@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TvGym" parent="@style/Theme.Leanback" />
+</resources>
